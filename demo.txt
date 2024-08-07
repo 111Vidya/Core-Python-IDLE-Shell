@@ -1,0 +1,1 @@
+This is a demo file created using open function in write mode. append mode does not overwrite the file.instead allows making changes from the end of the file.
